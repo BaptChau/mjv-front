@@ -1,0 +1,3 @@
+type TeamCategory = {
+    label: string;
+}
