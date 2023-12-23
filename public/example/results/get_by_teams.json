@@ -1,0 +1,48 @@
+{
+    "status": 200,
+    "route": "api/v1/results/1",
+    "role": "role_visitor",
+    "content": {
+        "results": [
+            {
+                "date": "2023-12-16",
+                "team": {
+                    "label": "Equipe 1",
+                    "coach": "Tartenpion",
+                    "category": {
+                        "label": "senior masculin"
+                    }
+                },
+                "opponent": "Eperney",
+                "victory": true,
+                "score": "42-30"
+            },
+            {
+                "date": "2023-12-2",
+                "team": {
+                    "label": "Equipe 1",
+                    "coach": "Tartenpion",
+                    "category": {
+                        "label": "senior masculin"
+                    }
+                },
+                "opponent": "Tinqeux",
+                "victory": true,
+                "score": "37-30"
+            },
+            {
+                "date": "2023-12-9",
+                "team": {
+                    "label": "Equipe 1",
+                    "coach": "Tartenpion",
+                    "category": {
+                        "label": "senior masculin"
+                    }
+                },
+                "opponent": "Savino Chapelin",
+                "victory": false,
+                "score": "32-30"
+            }
+        ]
+    }
+}

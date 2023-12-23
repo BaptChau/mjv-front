@@ -1,0 +1,19 @@
+{
+    "status": 200,
+    "route": "api/v1/teams",
+    "role": "role_visitor",
+    "content": {
+        "teams" : [
+            {
+                "label": "Equipe 1",
+                "coach": "Tartenpion",
+                "category": "Senior Masculin"
+            },
+            {
+                "label": "Equipe 2",
+                "coach": "Tartenpion",
+                "category": "Senior Masculin"
+            }
+        ]
+    }
+}
