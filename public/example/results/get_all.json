@@ -1,0 +1,50 @@
+{
+    "status": 200,
+    "route": "api/v1/results",
+    "role": "role_visitor",
+    "content": {
+        "results": [
+            {
+                "date": "2023-12-16",
+                "matchResults": [
+                    {
+                        "team": {
+                            "label": "Equipe 1",
+                            "coach": "Tartenpion",
+                            "category": {
+                                "label": "senior masculin"
+                            }
+                        },
+                        "opponent": "Bar-le-Duc",
+                        "victory": false,
+                        "score": "25-26"
+                    },
+                    {
+                        "team": {
+                            "label": "Equipe 1",
+                            "coach": "John Doe",
+                            "category": {
+                                "label": "senior feminine"
+                            }
+                        },
+                        "opponent": "Bar-le-Duc",
+                        "victory": true,
+                        "score": "25-19"
+                    },
+                    {
+                        "team": {
+                            "label": "Equipe 2",
+                            "coach": "Tartenpion",
+                            "category": {
+                                "label": "senior masculin"
+                            }
+                        },
+                        "opponent": "Vigneulles",
+                        "victory": false,
+                        "score": "20-39"
+                    }
+                ]
+            }
+        ]
+    }
+}
